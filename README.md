@@ -4,7 +4,7 @@
 I'm a young UI Designer, Learning Developer, and a Aspiring Entrepreneur.
  
 ## ✨ So, what am I doing now?!
-Currently, I am learning to Web Development with the Odin Project, and developing a next generation Discord Bot. Progress with the Odin Project 
+Currently, I am learning to Web Development with the Odin Project, and developing a new Discord Bot. Progress with the Odin Project 
 is very exciting, and I highly recommend using it if you are looking to learn Web Development. I am developing Droptify - The new and powerful Discord Bot. It's 
 one of those Discord Bots that can help engage your server.
 
