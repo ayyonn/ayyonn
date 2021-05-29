@@ -41,4 +41,6 @@ My goals for this year is to learn more computer science and release all my proj
 
 **Phone** - Samsung S10
 
+Feel free to checkout these products!
+
 Last Updated 5/28/2021!
