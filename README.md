@@ -20,4 +20,18 @@ My goals for this year is to learn more computer science and release all my proj
 ![image](https://user-images.githubusercontent.com/75280270/116026570-da287b00-a607-11eb-8ec9-58efa7cbec82.png)
 ![image](https://user-images.githubusercontent.com/75280270/116026585-e0b6f280-a607-11eb-8647-e52f4c021d3d.png)
 
+## 💻 Setup
+### PC
+**GPU** - EVGA Geforce RTX 2060
+**CPU** - AMD Ryzen 5 3600
+**Motherboard** - Gigabyte B450M DS3H
+**Memory** - Corsair Vengeance LPX 16GB DDR4 3200MHz
+**Power Supply Unit** - EVGA 650W
+**Storage** - SanDisk Ultra 3D 256GB SSD
+**Case** - NZXT H510 Elite
+
+### Other
+**Laptop** - (Currently Buying)
+**Phone** - Samsung S10
+
 Last Updated 5/28/2021!
