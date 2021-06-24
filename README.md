@@ -14,7 +14,7 @@ My goal is to become a Full-Stack Developer, and to have a correct mindset of a 
 
 ## Other Stuff
 ### Socials:
-- Twitter: [@ayonio](https://twitter.com/ayonio)
+- Twitter: [@ayonio_](https://twitter.com/ayonio_)
 - Frontend Mentor: [@ayon-io](https://www.frontendmentor.io/profile/ayon-io)
 - GitHub: [@ayon-io](https://github.com/ayon-io)
 - Website: 🚧 [dont-pm.me](https://dont-pm.me) 🚧
