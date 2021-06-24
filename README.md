@@ -10,12 +10,12 @@ I am practicing my HTML & CSS skills to build really cool websites. I'm also lea
 As of now, I'd say I have a decent foundation of HTML & CSS. UI Designing is probably my top skill as of now, because time-to-time I like to create web designs, concepts, and more.
 
 ## ⭐ Goals
-My goal is to become a Full-Stack Developer, and to have a mindset of a developer. 
+My goal is to become a Full-Stack Developer, and to have a correct mindset of a developer. 
 
 ## Other Stuff
 ### Socials:
 - Twitter: [@ayonio](https://twitter.com/ayonio)
-- Frontend Mentor: [@pmdev1](https://www.frontendmentor.io/profile/pmdev1)
+- Frontend Mentor: [@ayon-io](https://www.frontendmentor.io/profile/ayon-io)
 - GitHub: [@ayon-io](https://github.com/ayon-io)
 - Website: 🚧 [dont-pm.me](https://dont-pm.me) 🚧
 
