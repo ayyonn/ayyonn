@@ -9,9 +9,9 @@ What you'll most likely see in my repositories are solutions to challenges from 
 
 ## Other Stuff
 ### Socials:
-- Twitter: [@ayonio_](https://twitter.com/ayonio_)
+- Twitter: [@ayonio_](https://twitter.com/ayonndev)
 - Frontend Mentor: [@ayon-io](https://www.frontendmentor.io/profile/ayon-io)
-- GitHub: [@ayon-io](https://github.com/ayon-io)
+- GitHub: [@ayon-io](https://github.com/ayonnn)
 - Website: 🚧 [dont-pm.me](https://dont-pm.me) 🚧
 
 Last Updated 7/10/2021!
