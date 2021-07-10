@@ -1,16 +1,11 @@
-![](https://api.ghprofile.me/view?username=pmdev1)
+![](https://api.ghprofile.me/view?username=ayon-io)
 
-### 👋 Hey! I'm Ayon.
-I'm a teenage UI Designer, learning Web Developer, and a aspiring entrepreneur.
- 
-## ✨ What I'm currently doing
-I am practicing my HTML & CSS skills to build really cool websites. I'm also learning web development on a course on Udemy designed from a professional developer.
+# 👋 Hey! I'm Ayon.
+Thanks for checking out my GitHub page.
 
-## 👀 Experience
-As of now, I'd say I have a decent foundation of HTML & CSS. UI Designing is probably my top skill as of now, because time-to-time I like to create web designs, concepts, and more.
+I'm a **aspiring web developer** who is learning & practicing daily to become a **Full-Stack Developer**. What I've learnt so far are, **HTML**, **CSS**, **Bootstrap**, and some **JavaScript** (still learning). My plans for the future is to create real-world projects based on what I've learned, and I can't be more excited to do so.
 
-## ⭐ Goals
-My goal is to become a Full-Stack Developer, and to have a correct mindset of a developer. 
+What you'll most likely see in my repositories are solutions to challenges from [frontendmentor.io](https://frontendmentor.io), a website dedicated for web devs to practice their skill based on what language they know. 
 
 ## Other Stuff
 ### Socials:
@@ -19,4 +14,4 @@ My goal is to become a Full-Stack Developer, and to have a correct mindset of a 
 - GitHub: [@ayon-io](https://github.com/ayon-io)
 - Website: 🚧 [dont-pm.me](https://dont-pm.me) 🚧
 
-Last Updated 6/17/2021!
+Last Updated 7/10/2021!
