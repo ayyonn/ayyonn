@@ -3,7 +3,7 @@
 
 <div>
    <h2 align="left"><i>About me</i></h2>
-  <img src="c76bd053b15bad840c0c8df71e4ebe69.gif" align="right">
+  <img src="c76bd053b15bad840c0c8df71e4ebe69.gif" width=412 align="right">
   <p>I'm a learning web developer and an aspiring tech startup founder. Currently, I'm coming up with projects I am interested in building, and create small projects to practice what I know in coding.
 </p>
   
@@ -14,7 +14,7 @@
 <div>
  
   <h2><i>ㅤ ㅤ ㅤ   ㅤ ㅤ ㅤ   ㅤ ㅤ ㅤ   ㅤ ㅤ ㅤ   ㅤ ㅤ ㅤ   ㅤProjects</i></h2>
-  <img src="ayanokouji-classroom-of-the-elite.gif" width=512 align="right">
+  <img src="ayanokouji-classroom-of-the-elite.gif" width=412 align="right">
   <p align="left">A pretty big project I'm working on is <b>Explore</b>, an app designed for travelers. <b>Explore</b> helps you navigate the big world with our maps, help you find nearby landmarks, restaurants, stores, etc, give you information on local events, built-in uber service and many more. Will be available on the web, IOS, and Android soon.
   <br>
    <br>
