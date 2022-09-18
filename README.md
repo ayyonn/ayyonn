@@ -13,7 +13,7 @@
 
 <div>
  
-  <h2><i>ㅤ ㅤ ㅤ   ㅤ ㅤ ㅤ   ㅤ ㅤ ㅤ   ㅤ ㅤ ㅤ   ㅤ ㅤ ㅤ   ㅤProjects</i></h2>
+  <h2><i>ㅤ ㅤ ㅤ   ㅤ ㅤ ㅤ   ㅤ ㅤ ㅤ   ㅤ ㅤ ㅤ   ㅤ ㅤ ㅤ   ㅤ ㅤ   ㅤ ㅤ   ㅤ ㅤ   ㅤ ㅤ   ㅤ ㅤ   ㅤ ㅤ   ㅤ ㅤ   ㅤ ㅤ   ㅤ ㅤ   ㅤ ㅤ   ㅤ ㅤ   ㅤ ㅤ   ㅤ                                                                                                      Projects</i></h2>
   <img src="ayanokouji-classroom-of-the-elite.gif" width=412 align="right">
   <p align="left">A pretty big project I'm working on is <b>Explore</b>, an app designed for travelers. <b>Explore</b> helps you navigate the big world with our maps, help you find nearby landmarks, restaurants, stores, etc, give you information on local events, built-in uber service and many more. Will be available on the web, IOS, and Android soon.
   <br>
