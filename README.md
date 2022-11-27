@@ -20,7 +20,7 @@
  
   <h2><i>Projects</i></h2>
   <img src="ayanokouji-classroom-of-the-elite.gif" width=412 align="right">
-  <p align="left">A pretty big project I'm working on is <b>Explore</b>, an app designed for travelers. <b>Explore</b> helps you navigate the big world with our maps, help you find nearby landmarks, restaurants, stores, etc, give you information on local events, built-in uber service and many more. Will be available on the web, IOS, and Android soon.
+  <p align="left">Most of the projects I do is just to learn the many technologies assoiated with it. Currently, I'm developing a Discord bot to learn more about the Discord JS API and the many capablities a bot can do.
   <br>
    <br>
   All the other projects I create are just to practice with the skills I've learnt. You are welcome to look through them.
