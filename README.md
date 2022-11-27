@@ -4,7 +4,7 @@
 <div>
    <h2 align="left"><i>About me</i></h2>
   <img src="c76bd053b15bad840c0c8df71e4ebe69.gif" width=412 align="right">
-  <p>I'm a learning web developer and an aspiring tech startup founder. Currently, I'm coming up with projects I am interested in building, and create small projects to practice what I know in coding.
+  <p>I'm a student who has an interest in web development and design and an aspiring tech startup founder. I'm always interested in learning new things with technology.
 </p>
   
 <h3>Technologies</h3>
